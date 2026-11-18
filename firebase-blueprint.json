@@ -1,0 +1,67 @@
+{
+  "entities": {
+    "LeaderboardEntry": {
+      "title": "LeaderboardEntry",
+      "description": "Public leaderboard profile and personal best score for a player (contains no PII).",
+      "type": "object",
+      "properties": {
+        "uid": {
+          "type": "string",
+          "description": "Firebase Auth UID of the player.",
+          "minLength": 1,
+          "maxLength": 128,
+          "pattern": "^[a-zA-Z0-9_\\-]+$"
+        },
+        "displayName": {
+          "type": "string",
+          "description": "Player chosen display name shown on the leaderboard.",
+          "minLength": 1,
+          "maxLength": 32
+        },
+        "highScore": {
+          "type": "integer",
+          "description": "Highest score achieved by the player."
+        },
+        "bestDistance": {
+          "type": "integer",
+          "description": "Furthest distance in meters achieved by the player."
+        },
+        "correctAnswers": {
+          "type": "integer",
+          "description": "Correct answers in the best run."
+        },
+        "levelReached": {
+          "type": "integer",
+          "description": "Highest difficulty level reached (1 to 3)."
+        },
+        "isAnonymous": {
+          "type": "boolean",
+          "description": "Whether the player signed in anonymously as guest."
+        },
+        "updatedAt": {
+          "type": "string",
+          "format": "date-time",
+          "description": "Server timestamp of last update."
+        }
+      },
+      "required": [
+        "uid",
+        "displayName",
+        "highScore",
+        "bestDistance",
+        "correctAnswers",
+        "levelReached",
+        "isAnonymous",
+        "updatedAt"
+      ]
+    }
+  },
+  "firestore": {
+    "/leaderboard/{userId}": {
+      "schema": {
+        "$ref": "#/entities/LeaderboardEntry"
+      },
+      "description": "Stores each player's display name and highest score for the realtime Top 10 leaderboard."
+    }
+  }
+}

@@ -1,0 +1,422 @@
+[
+  {
+    "id": 1,
+    "difficulty": "easy",
+    "passage": "",
+    "question": "If it rains tomorrow morning, we ___ the outdoor English debate inside the hall.",
+    "options": [
+      "will hold",
+      "would hold",
+      "held",
+      "had held",
+      "would have held"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 2,
+    "difficulty": "easy",
+    "passage": "",
+    "question": "The annual school cultural festival ___ by the student council every August.",
+    "options": [
+      "organizes",
+      "is organized",
+      "was organizing",
+      "has organized",
+      "is organizing"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 3,
+    "difficulty": "easy",
+    "passage": "",
+    "question": "What is the main purpose of writing a photo caption on a news website?",
+    "options": [
+      "To advertise commercial products to readers",
+      "To replace the entire body of the news article",
+      "To provide context and explain what is happening in the image",
+      "To criticize the photographer's camera angle",
+      "To list the biographies of the website editors"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 4,
+    "difficulty": "easy",
+    "passage": "",
+    "question": "Choose the closest synonym for the word 'mandatory' in: 'Wearing a helmet is mandatory for all riders.'",
+    "options": [
+      "Optional",
+      "Forbidden",
+      "Temporary",
+      "Compulsory",
+      "Irrelevant"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 5,
+    "difficulty": "easy",
+    "passage": "",
+    "question": "Several new solar panels ___ on the school roof last week.",
+    "options": [
+      "install",
+      "are installed",
+      "were installed",
+      "have installed",
+      "will install"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 6,
+    "difficulty": "easy",
+    "passage": "",
+    "question": "If you heat ice to 0 degrees Celsius, it ___ into liquid water.",
+    "options": [
+      "melts",
+      "melted",
+      "would melt",
+      "had melted",
+      "will be melting"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 7,
+    "difficulty": "easy",
+    "passage": "",
+    "question": "In a News Item text, which paragraph usually summarizes the main event at the very beginning?",
+    "options": [
+      "Reorientation",
+      "Newsworthy Event",
+      "Elaboration",
+      "Recommendation",
+      "Coda"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 8,
+    "difficulty": "easy",
+    "passage": "Caption: 'Students from SMAN 3 Bandung plant 200 mangrove seedlings along the northern coast on Saturday, October 12, to prevent coastal erosion.'",
+    "question": "Based on the caption above, why did the students plant the mangrove seedlings?",
+    "options": [
+      "To win a national photography contest",
+      "To sell the timber to local fishermen",
+      "To stop coastal erosion along the shore",
+      "To celebrate the city's founding anniversary",
+      "To clear the beach for a volleyball tournament"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 9,
+    "difficulty": "easy",
+    "passage": "",
+    "question": "The English essay assignments must ___ before Friday at 3 PM.",
+    "options": [
+      "submit",
+      "submitted",
+      "be submitting",
+      "be submitted",
+      "have submit"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 10,
+    "difficulty": "easy",
+    "passage": "Public transportation should be improved in every major city. First, reliable buses and trains reduce traffic congestion during rush hours. Second, fewer private cars on the road mean lower carbon emissions and cleaner air for residents. Therefore, investing in mass transit benefits both commuters and the environment.",
+    "question": "What is the thesis statement of the Analytical Exposition paragraph above?",
+    "options": [
+      "Private cars are faster than trains during rush hours.",
+      "Public transportation should be improved in every major city.",
+      "Air pollution cannot be solved by local governments.",
+      "Commuters prefer walking to taking buses.",
+      "Traffic congestion only happens on weekends."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 11,
+    "difficulty": "medium",
+    "passage": "",
+    "question": "If I ___ more fluent in Japanese, I would apply for the summer exchange program in Kyoto.",
+    "options": [
+      "am",
+      "was",
+      "were",
+      "had been",
+      "would be"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 12,
+    "difficulty": "medium",
+    "passage": "",
+    "question": "Look at the construction site! A new pedestrian bridge ___ across the main avenue right now.",
+    "options": [
+      "is building",
+      "is being built",
+      "has built",
+      "was being built",
+      "will be built"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 13,
+    "difficulty": "medium",
+    "passage": "",
+    "question": "Which sentence expresses a Conditional Type 2 (unreal situation in the present)?",
+    "options": [
+      "If she studies hard, she will pass the entrance test.",
+      "If she had studied hard, she would have passed the test.",
+      "If she studied harder, she would get a higher score.",
+      "If she studies daily, her grades improve quickly.",
+      "Unless she leaves now, she will miss the train."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 14,
+    "difficulty": "medium",
+    "passage": "JAKARTA — The Ministry of Transportation officially launched three new electric bus corridors in Greater Jakarta yesterday. Officials stated that the zero-emission fleet will serve over 45,000 daily passengers and connect suburban train stations with business districts. Commuters welcomed the initiative, praising the quiet cabin and air-conditioned comfort.",
+    "question": "According to the news item above, what is the primary benefit highlighted by the commuters?",
+    "options": [
+      "Free lifetime tickets for all students",
+      "Higher speed limits on toll roads",
+      "A quiet cabin and air-conditioned comfort",
+      "Direct routes to regional airports",
+      "Elimination of all train stations"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 15,
+    "difficulty": "medium",
+    "passage": "",
+    "question": "The word 'mitigate' in 'Trees help mitigate the urban heat island effect' is closest in meaning to ___.",
+    "options": [
+      "intensify",
+      "alleviate",
+      "measure",
+      "postpone",
+      "ignore"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 16,
+    "difficulty": "medium",
+    "passage": "",
+    "question": "All laboratory equipment ___ thoroughly before the chemistry students arrived.",
+    "options": [
+      "has been sterilized",
+      "was sterilizing",
+      "had been sterilized",
+      "is being sterilized",
+      "would sterilize"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 17,
+    "difficulty": "medium",
+    "passage": "Digital literacy should be taught as a core subject in senior high schools. Without critical evaluation skills, teenagers easily fall prey to misinformation and online scams. Moreover, understanding data privacy empowers students to protect their digital footprint responsibly. In conclusion, equipping youth with digital literacy is essential for modern citizenship.",
+    "question": "What does the writer use the word 'Moreover' to do in the text?",
+    "options": [
+      "To introduce a contrasting opinion",
+      "To add another supporting argument",
+      "To summarize the entire passage",
+      "To provide an example of a past event",
+      "To ask a rhetorical question"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 18,
+    "difficulty": "medium",
+    "passage": "",
+    "question": "Unless the city enforces strict waste sorting, the landfill ___ full within five years.",
+    "options": [
+      "will become",
+      "would become",
+      "became",
+      "had become",
+      "would have become"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 19,
+    "difficulty": "medium",
+    "passage": "",
+    "question": "Identify the sentence that uses Passive Voice correctly.",
+    "options": [
+      "The trophy has won by our school basketball team.",
+      "The trophy was winning by our school basketball team.",
+      "The trophy has been won by our school basketball team.",
+      "Our school basketball team was won the trophy.",
+      "The trophy is win by our school basketball team."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 20,
+    "difficulty": "medium",
+    "passage": "SURABAYA — Local tech startups showcased smart traffic sensors at the East Java Innovation Expo on Tuesday. Project lead Maya Putri explained that the sensors adjust traffic light durations automatically based on real-time vehicle queues, cutting intersection wait times by up to 28 percent during peak hours.",
+    "question": "What is the role of Maya Putri in the news report?",
+    "options": [
+      "A city mayor criticizing the project budget",
+      "A commuter complaining about traffic lights",
+      "The project lead explaining how the sensors work",
+      "A journalist interviewing startup founders",
+      "An investor purchasing the expo venue"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 21,
+    "difficulty": "hard",
+    "passage": "",
+    "question": "If the municipal engineers had reinforced the seawall earlier, the coastal highway ___ flooded during last night's storm.",
+    "options": [
+      "would not be",
+      "will not be",
+      "would not have been",
+      "had not been",
+      "was not"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 22,
+    "difficulty": "hard",
+    "passage": "",
+    "question": "Choose the correct inverted Conditional Type 3 sentence:",
+    "options": [
+      "Were he to arrive early, he would have seen the keynote.",
+      "Had he known about the detour, he would have taken another route.",
+      "Should he knew about the detour, he would take another route.",
+      "Did he know about the detour, he would have taken another route.",
+      "Has he known about the detour, he will take another route."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 23,
+    "difficulty": "hard",
+    "passage": "Promoting urban cycling lanes is not merely an environmental choice; it is an economic necessity. Studies show that walkable and bike-friendly districts attract higher foot traffic for small street vendors and local shops. Critics argue that bike lanes reduce car parking spaces, yet cities that adopted protected lanes actually recorded a 17% rise in retail revenue. Therefore, reallocating road space for cyclists strengthens neighborhood commerce.",
+    "question": "How does the author respond to the critics' concern about reduced car parking spaces?",
+    "options": [
+      "By agreeing that retail shops should close on weekends",
+      "By proposing underground parking beneath every school",
+      "By presenting data showing a 17% rise in retail revenue",
+      "By claiming cyclists never purchase goods from vendors",
+      "By stating that environmental goals outweigh economic survival"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 24,
+    "difficulty": "hard",
+    "passage": "",
+    "question": "By the time the international delegates arrive next Monday, the heritage museum ___ completely.",
+    "options": [
+      "will have restored",
+      "has been restored",
+      "will have been restored",
+      "is being restored",
+      "was restored"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 25,
+    "difficulty": "hard",
+    "passage": "",
+    "question": "If she had accepted the scholarship in Melbourne two years ago, she ___ an engineering graduate today.",
+    "options": [
+      "will be",
+      "would be",
+      "would have been",
+      "had been",
+      "is"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 26,
+    "difficulty": "hard",
+    "passage": "BANDUNG — A consortium of Indonesian universities announced an open-source Bahasa Indonesia speech dataset on Wednesday to help rural clinics build voice-enabled health tools. 'Previously, voice recognition software struggled with regional accents,' said Dr. Hendra Wijaya, the lead researcher. 'By training models on diverse archipelago dialects, medical staff can transcribe patient notes accurately without internet lag.'",
+    "question": "Which statement can be inferred from Dr. Hendra Wijaya's quote?",
+    "options": [
+      "Rural clinics already had flawless dialect transcription tools.",
+      "Earlier voice software was biased toward limited accents.",
+      "The dataset is restricted exclusively to paid commercial hospitals.",
+      "Medical staff will no longer need to examine patients in person.",
+      "Internet lag improves the accuracy of voice recognition models."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 27,
+    "difficulty": "hard",
+    "passage": "",
+    "question": "What does 'ubiquitous' mean in: 'QR code payments have become ubiquitous across street food stalls in Indonesia'?",
+    "options": [
+      "Extremely expensive to maintain",
+      "Present or found everywhere",
+      "Restricted to government offices",
+      "Outdated and rarely used",
+      "Difficult for customers to understand"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 28,
+    "difficulty": "hard",
+    "passage": "",
+    "question": "The confidential research findings are reported ___ to an independent review board without the author's consent.",
+    "options": [
+      "to leak",
+      "to be leaking",
+      "to have been leaked",
+      "having leaked",
+      "leaked"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 29,
+    "difficulty": "hard",
+    "passage": "While artificial intelligence automates repetitive drafting, human editorial judgment remains irreplaceable in journalism. Algorithms lack lived cultural nuance and ethical accountability when covering sensitive community events. Consequently, newsrooms should treat AI as an assistive research tool rather than an autonomous reporter, ensuring every published claim undergoes human verification.",
+    "question": "What is the main distinction between Analytical Exposition and Hortatory Exposition as reflected in the final sentence?",
+    "options": [
+      "The final sentence gives a recommendation ('should treat'), whereas pure Analytical Exposition ends with a reiteration of the thesis.",
+      "The passage tells a chronological fictional story about a reporter.",
+      "The passage contains direct quotes from eyewitnesses of an accident.",
+      "The final sentence describes the physical appearance of a newsroom.",
+      "The passage strictly avoids taking any stance on technology."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 30,
+    "difficulty": "hard",
+    "passage": "SEMARANG — Heavy monsoon rains triggered minor landslides along the northern Pantura arterial route early Thursday, prompting police to divert cargo trucks onto the elevated toll corridor. Public works crews cleared the debris within four hours, and normal two-way traffic resumed by noon with zero casualties reported.",
+    "question": "Which headline best summarizes the News Item text above?",
+    "options": [
+      "Pantura Toll Corridor Permanently Closed Due to Monsoon",
+      "Quick Cleanup Restores Pantura Traffic After Minor Landslides",
+      "Cargo Trucks Banned From Semarang Roads All Month",
+      "Four-Day Landslide Crisis Causes Major Casualties in Java",
+      "Police Build New Elevated Highway in Four Hours"
+    ],
+    "correctIndex": 1
+  }
+]

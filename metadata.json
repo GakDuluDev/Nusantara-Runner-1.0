@@ -1,0 +1,8 @@
+{
+  "name": "Nusantara Runner 12",
+  "description": "Interactive Games for Learning English More Fun ",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
